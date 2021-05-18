@@ -53,24 +53,24 @@
 
 .buttonContainer {
   display: flex;
-  flex-flow: row;
+  flex-flow: column;
   justify-content: center;
 }
 
 .resetButton,
 .actionButton {
   display: inline-block;
-  padding: 4em;
   margin: 2em;
+  padding: 5em;
   border: none;
   border-radius: 5%;
   cursor: pointer;
 }
 
-.resetButton {
-  background-color: #E53935;
-}
-
 .actionButton {
   background-color: #43A047;
+}
+
+.resetButton {
+  background-color: #E53935;
 }

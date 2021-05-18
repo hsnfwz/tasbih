@@ -78,7 +78,7 @@ const Tasbih = () => {
       </div> */}
       <div className={styles.container}>
         <div className={styles.name}>
-          <h1>Tasbih of Fatimah</h1>
+          <h1>Tasbih</h1>
         </div>
         <div className={styles.count}>
           <h1>{ count }</h1>
