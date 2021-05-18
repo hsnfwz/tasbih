@@ -60,8 +60,8 @@
 .resetButton,
 .actionButton {
   display: inline-block;
-  padding: 2em;
-  margin: 1em;
+  padding: 4em;
+  margin: 2em;
   border: none;
   border-radius: 5%;
   cursor: pointer;
