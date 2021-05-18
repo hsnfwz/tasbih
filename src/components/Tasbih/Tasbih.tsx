@@ -84,8 +84,8 @@ const Tasbih = () => {
           <h1>{ count }</h1>
         </div>
         <div className={styles.buttonContainer}>
-          <button className={styles.actionButton} onClick={handleAction}></button>
           <button className={styles.resetButton} onClick={handleReset}></button>
+          <button className={styles.actionButton} onClick={handleAction}></button>
         </div>
       </div>
     </>
